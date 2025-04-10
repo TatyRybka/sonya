@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 50px;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+
+footer p {
+    font-size: 20px;
+    background-color:white;
+}
+
+header {
+    background-color: rgba(121, 41, 183, 1);
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
+
+
+footer {
+    background-color:rgba(78, 8, 132, 1);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+nav {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+main h1 {
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+ul {
+    text-align: left;
+}
+
+main img {
+    border: solid 3px rgba(122, 18, 202, 1);
+}
+
+.glavnay{
+    border: 3px solid rgba(144, 0, 255, 1);
+    color: black;
+}
+
+.mypet{
+    border: 2px solid black;
+    color: black;
+}
+
+.klybzoo{
+    color: rgba(145, 86, 190, 1);
+}
